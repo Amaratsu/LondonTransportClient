@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Home extends Component {
+export default class RoadState extends Component {
   render() {
     return (
       <div className='row'>
-        <div className='col-md-12'>Раздел / home</div>
+        <div className='col-md-12'>Раздел / RoadState</div>
       </div>
     )
   }
